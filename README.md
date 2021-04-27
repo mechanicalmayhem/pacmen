@@ -1,4 +1,5 @@
 # PacMen Exercise
+<img src = '/images/PacMan1.png'></img>
 ## Description:
 In this exercise we demontrate control of the DOM (Document Object Model) using JavaScript. By clicking the 'Add PacMan' button, a new PacMan will be added to the screen. Clicking the 'Start Game' button will start them all moving on random trajectories as well as bouncing them off the browser walls.
 ## How to Run:
