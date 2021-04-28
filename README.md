@@ -4,7 +4,7 @@
 In this exercise we demontrate control of the DOM (Document Object Model) using JavaScript.  Objects (PacMen) are added and updated on the screen to appear to be moving.  This is accomplished using JavaScript to modify the DOM in real-time.  
 By clicking the 'Add PacMan' button, a new PacMan will be added to the screen. Clicking the 'Start Game' button will start them all moving on random trajectories as well as bouncing them off the browser walls.  Enjoy!
 ## How to Run:
-Download all files into a directory, and point your local browser to the index.html file.  Alternatively, point your browser at: https://github.com/mechanicalmayhem/pacmen to load this example through GitHub.  This file was developed and has only been tested in Google Chrome Version 90.0.4430.93 (Official Build) (64-bit).
+Download all files into a directory, and point your local browser to the index.html file.  Alternatively, point your browser at: https://mechanicalmayhem.github.io/pacmen/ to load this example through GitHub.  This file was developed and has only been tested in Google Chrome Version 90.0.4430.93 (Official Build) (64-bit).
 ## Roadmap of Future Improvements:
 In the future I would like to add functionality that will change the PacMan icon to the appropriate direction depending on which way the PacMan is traveling (i.e. facing left if he is traveling left).
 ## License Information:
